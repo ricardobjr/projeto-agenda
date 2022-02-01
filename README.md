@@ -34,7 +34,7 @@ create table pessoa(
  As informações serão salvas no banco de dados e carregadas no <strong>'card' 'Lista de Contatos'</strong>. <br>
  A partir do oitavo item adicionado na lista uma <strong>'barra de scroll'</strong> irá aparecer e os itens poderão ser vizualizados conforme a barra for movimentada. <br>
 </ul>
-<h2> 3️⃣ > Observações </h2>
+<h2> 3️⃣ > Observações:</h2>
 <ul>
 ⚠️ Só será permitido adicionar as informações no banco de dados se todos os campos estiverem sido preenchidos. 
 <ul>
